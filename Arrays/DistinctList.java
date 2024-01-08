@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 public class DistinctList {
 //    public static List<Integer> getDistinctList(List<Integer> list){
