@@ -1,0 +1,16 @@
+    two sum (less than O(n²) best O(n), use hash)
+    3Sum (less than O(n³), better O(n²), use hash)
+    Find total rotations in a sorted array
+    Sliding window
+    Sliding window mean
+    Fibonacci series (recursion or dynamic programming(No one asks or mostly know dp))
+    Palindorm, K-Palindorm
+    Match/find substring(e.g: KMP Algorithm )
+    Match/find sub-tree from two given trees.
+    String manipulations
+    Power of a number (in O(n), without build-in operations)
+    Sum of two LinkedList and save into new LinkedList.
+    Extract file name and extension from a given path.
+    Insert Node in a binary tree at a specific position.
+    Spiral Matrix
+    [DB] return 3rd highest salary of the employee
